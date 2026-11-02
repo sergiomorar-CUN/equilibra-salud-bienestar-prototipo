@@ -348,14 +348,29 @@
 
   function renderFooter() {
     document.getElementById('foot').innerHTML = `<div class="wrap">
-      <div class="foot-brand">${LOGO}<div><b>Equilibra</b><p class="muted">Información general de bienestar. No reemplaza la consulta con un profesional de la salud.</p></div></div>
-      <div class="links">
-        <button data-go="privacidad">Privacidad</button>
-        <button data-go="accesibilidad">Accesibilidad</button>
-        <button data-go="cobertura">Guía de evaluación</button>
-        <button data-act="reset">Restablecer demo</button>
+      <div class="foot-main">
+        <div class="foot-brand">
+          ${LOGO}
+          <div>
+            <b>Equilibra</b>
+            <p>Información general de bienestar basada en directrices de ICBF, OPS e INS. No reemplaza la consulta con un profesional de la salud.</p>
+            <span class="foot-badge">ACA Ingeniería Web · Ficha 55564 · CUN</span>
+          </div>
+        </div>
+        <div class="foot-links-group">
+          <span class="foot-links-title">Navegación y Auditoría</span>
+          <div class="links">
+            <button data-go="privacidad">Privacidad</button>
+            <button data-go="accesibilidad">Accesibilidad</button>
+            <button data-go="cobertura">Guía ACA</button>
+            <button data-act="reset">Restablecer demo</button>
+          </div>
+        </div>
       </div>
-      <p class="muted foot-legal">© 2026 Equilibra · Prototipo académico · ACA Ingeniería Web · CUN</p>
+      <div class="foot-legal">
+        <span>© 2026 Equilibra · Prototipo académico de recomendaciones saludables</span>
+        <span>Autores: Christian Torres · Sergio Mora · Javier Sandoval</span>
+      </div>
     </div>`;
   }
 
