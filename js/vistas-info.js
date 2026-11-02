@@ -82,8 +82,10 @@
     <p class="muted" style="max-width:70ch">Esta página resume dónde se implementa cada requerimiento de la ACA y cómo comprobarlo en menos de cinco minutos. Está pensada para el docente y para el equipo, no forma parte del flujo del usuario final.</p>
 
     <div class="panel" style="padding:24px">
-      <h2 style="margin-bottom:10px">Cuenta de prueba</h2>
-      <p><b>Correo:</b> <code>daniela@correo.com</code> · <b>Contraseña:</b> <code>Demo2026*</code></p>
+      <h2 style="margin-bottom:12px">Recursos oficiales del proyecto</h2>
+      <p style="margin-bottom:8px"><b>Repositorio en GitHub:</b> <a href="https://github.com/sergiomorar-CUN/equilibra-salud-bienestar-prototipo" target="_blank" rel="noopener">https://github.com/sergiomorar-CUN/equilibra-salud-bienestar-prototipo</a></p>
+      <p style="margin-bottom:8px"><b>Prototipo en línea (GitHub Pages):</b> <a href="https://sergiomorar-cun.github.io/equilibra-salud-bienestar-prototipo/" target="_blank" rel="noopener">https://sergiomorar-cun.github.io/equilibra-salud-bienestar-prototipo/</a></p>
+      <p style="margin-bottom:6px"><b>Cuenta de prueba:</b> <code>daniela@correo.com</code> · <b>Contraseña:</b> <code>Demo2026*</code></p>
       <p class="muted">También puedes crear una cuenta nueva desde <a href="#/registro" data-go="registro">Crear cuenta</a>. La cuenta demo ya tiene perfil de salud, favoritos y hábitos.</p>
     </div>
 
