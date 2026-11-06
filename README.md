@@ -16,7 +16,7 @@ Prototipo navegable e interactivo desarrollado para la Actividad de Construcció
 
 * **Christian Andrés Torres Ortega** (Ficha No. 55564)
 * **Sergio Mora Rodríguez** (Ficha No. 55564)
-* **Javier Sandoval** (Ficha No. 55564)
+* **Javier Sandoval** (Ficha No. 55566)
 
 ## Descripción General
 
